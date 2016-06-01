@@ -1,0 +1,7 @@
+      rzecz ile       date
+1    lokata  13 2013-08-30
+2 aplikacja  11 2013-07-04
+3 aplikacja  11 2013-07-05
+4 aplikacja  11 2013-07-03
+5 aplikacja  11 2013-07-02
+6 aplikacja  18 2013-10-12

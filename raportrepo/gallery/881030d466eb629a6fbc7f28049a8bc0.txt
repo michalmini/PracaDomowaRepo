@@ -1,0 +1,7 @@
+           wektor
+bank         2609
+magda        2356
+konto        2248
+klient       1778
+alior_bank   1715
+karta        1248
